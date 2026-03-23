@@ -1,0 +1,1 @@
+arduino-cli compile -u -b arduino:esp32:nano_nora ~/harada-tsubakino/OtosHmcSerialSender
