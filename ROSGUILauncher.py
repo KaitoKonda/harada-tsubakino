@@ -20,7 +20,7 @@ from PyQt5.QtWidgets import (
     QWidget,
 )
 
-CONFIG_FILE = "config.yaml"
+CONFIG_FILE = "launcherConfig.yaml"
 
 
 @dataclass

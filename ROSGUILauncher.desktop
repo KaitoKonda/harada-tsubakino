@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ROS GUI Launcher
+Comment=Launch ROS GUI
+Exec=/home/pi/ROSGUILauncher/ROSGUILauncher.sh
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Development;
